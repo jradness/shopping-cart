@@ -1,0 +1,70 @@
+.cart-sub-items-box {
+    /*width: 200px;*/
+    /*position: left: 60px;*/
+    /*padding: 5px;*/
+
+    margin-bottom: 26px;
+    /*padding: 5px;*/
+
+    background: #ff0030;
+    color: #fff;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1.3em;
+    border: 2px dashed #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 0 4px #ff0030, 5px 9px 6px 4px rgba(10, 10, 0, 0.5);
+    text-shadow: -1px -1px #aa3030;
+    font-weight: normal;
+}
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+}
+
+h1 {
+    font-family: 'Audiowide', cursive;
+}
+
+#bgHeader {
+    background: #ffffff;
+}
+
+#logo {
+    width: 90px;
+    height: 90px;
+    margin-top: 20;
+    margin-left: -20
+}
+
+#grass {
+    width: 1150px;
+    height: 20px;
+    margin-bottom: 40px;
+}
+
+.product-img {
+    height: 150px;
+}
+
+.product-col {
+    border-right: 1px solid #eee;
+}
+
+.product-desc-row {
+    min-height: 100px;
+}
+
+.product-condition-row {
+    min-height: 70px;
+}
+
+.cart_img {
+    border-bottom: 1px solid #eee;
+}
